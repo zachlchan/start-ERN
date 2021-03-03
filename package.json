@@ -1,7 +1,7 @@
 {
-  "name": "zachlchan.github.io",
+  "name": "start-ERN",
   "version": "1.0.0",
-  "description": "portfolio",
+  "description": "react app starter using webpack, babel, and a node-express server",
   "main": "index.js",
   "scripts": {
     "react-dev": "webpack -w",

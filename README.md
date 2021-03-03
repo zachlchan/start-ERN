@@ -1,3 +1,3 @@
-# zachlchan.github.io
+# start-ERN
 
-A professional portfolio website hosted on github pages.
+A react app starter using webpack, babel, and a node-express erver.
